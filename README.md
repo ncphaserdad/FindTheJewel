@@ -1,2 +1,2 @@
-# FindTheJewel
+# GemGridIntro
 Created with CodeSandbox
